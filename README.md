@@ -83,4 +83,7 @@ npm run build
 | Static HTML/CSS pages | Component-based React app |
 | Manual DOM updates | Reactive state management |
 | Plain file structure | Modern Vite build pipeline |
+</div>
+🌍 Connect
+<p align="center"> <a href="https://www.linkedin.com/in/tarun-malik-9bab21388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/MALIK25252007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> <a href="https://www.instagram.com/_malik_200716"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> </p> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:61DAFB,50:1B98E0,100:0D1B2A&height=90&section=footer" />
 
